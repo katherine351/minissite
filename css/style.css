@@ -137,17 +137,17 @@ a:hover {
     margin-top: 5px;
 }
 
-#ir-para-personagens {
+#ir-para-produtos {
     text-align: center;
     background-color: rgb(255, 228, 251);
     padding:20px;
 }
 
-#ir-para-personagens h3 {
+#ir-para-produtos h3 {
     margin-bottom: 20px;
 }
 
-#ir-para-personagens a {
+#ir-para-produtos a {
     font-weight: bold;
     background-color: rgb(223, 192, 196, 0.5);
     padding: 10px;
@@ -156,7 +156,7 @@ a:hover {
     border-color: rgb(163, 133, 145, 0.5)
 }
 
-#ir-para-personagens a:hover {
+#ir-para-produtos a:hover {
     color: rgb(163, 133, 145);
 }
 
@@ -174,4 +174,3 @@ footer {
     display: flex;
     gap: 20px
 }
-
