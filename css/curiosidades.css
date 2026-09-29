@@ -6,14 +6,13 @@
 
 
 body {
-   background-color: rgba(252, 219, 243, 0.7);
+   background-color: rgb(255, 228, 251);
    font-family: Georgia, 'Times New Roman', Times, serif;
    color: rgb(15, 15, 16);
 }
 
-
 header {
-   background-color:background-color rgb(254, 211, 239);
+   background-color: rgba(18, 17, 18, 0.7);
    padding: 10px;
    display: flex;
    justify-content: space-between;
@@ -56,7 +55,7 @@ a:hover {
 
 
 #opcao-curiosidades a{
-   color: white
+   color: white;
    text-decoration: underline;
    text-decoration-thickness: 2px;
    text-underline-offset: 10px;
@@ -128,10 +127,10 @@ a:hover {
    gap: 20px;
    justify-content: center;
    align-items: flex-start;
-   background-color: rgb(223, 192, 196, 0.5);
+   background-color: rgb(250, 221, 246);
    border-radius: 20px;
    border-style: solid;
-   border-color: rgb(163, 133, 145, 0.5);
+   border-color: rgb(211, 185, 207);
    padding: 5px 20px ;
    margin-top: 10px;
    margin-bottom: 10px;
@@ -174,4 +173,3 @@ footer {
 .link {
    font-weight: bold;
 }
-

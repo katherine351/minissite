@@ -6,13 +6,13 @@
 
 body {
 
-    background-color: rgb(236, 216, 219);
+    background-color: rgb(255, 228, 251);
     font-family:Georgia, 'Times New Roman', Times, serif;
     color: rgb(0, 0, 0);
 }
 
 header {
-    background-color: rgba(252, 219, 243, 0.7);
+    background-color: rgba(18, 17, 18, 0.7);
     padding: 10px;
     display: flex;
     justify-content: space-between;
@@ -27,7 +27,7 @@ a {
 }
 
 a:hover {
-    color: rgb(225, 190, 218);
+    color: rgb(2, 2, 2);
 }
 
 #logo {
@@ -143,8 +143,8 @@ footer {
 }
 
 .produto {
-    width: 23%;
-    background-color: rgb(241, 234, 241);
+    width: 30%;
+    background-color: rgb(255, 240, 253);
     padding: 10px;
     border-radius: 15px;
     text-align: center;

@@ -5,13 +5,13 @@
 }
 
 body {
-    background-color: rgb(254, 211, 239);
+    background-color: rgb(255, 228, 251);;
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: background-color rgb(254, 211, 239);
 }
 
 header {
-    background-color: rgba(192, 166, 185, 0.7);
+    background-color: rgba(18, 17, 18, 0.7);
     padding: 10px;
     display: flex;
     justify-content: space-between;
@@ -64,8 +64,7 @@ a:hover {
 
 #introducao {
     background-color: rgba(244, 194, 230, 0.7);
-    padding-left: 30px;
-    padding-right: 30px;
+    padding: 30px;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -82,6 +81,10 @@ a:hover {
 #introducao p {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin-bottom: 20px;
+}
+
+#introducao img {
+    border-radius: 20px;
 }
 
 #ir-para-destaques {
@@ -120,10 +123,10 @@ a:hover {
     flex-direction: row;
     justify-content: center;
     align-items: center;
-    background-color: rgb(223, 192, 196, 0.5);
+    background-color: rgb(250, 221, 246);
     border-radius: 20px;
     border-style: solid;
-    border-color: rgb(163, 133, 145, 0.5);
+    border-color: rgb(211, 185, 207);;
     padding: 20px;
     text-align: center;
 }
@@ -139,7 +142,7 @@ a:hover {
 
 #ir-para-produtos {
     text-align: center;
-    background-color: rgb(255, 228, 251);
+    background-color: rgba(244, 194, 230, 0.7);
     padding:20px;
 }
 
